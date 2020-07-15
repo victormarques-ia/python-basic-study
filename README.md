@@ -9,7 +9,7 @@ Project made for Ascender Jr during the PTA 2020.1
 
 - MongoDB 
 
-## The Project Patterns
+## Project Patterns
 
 ### Branchs off of `develop`
 
@@ -49,3 +49,8 @@ For every issue the pull request follows this pattern:
 
 resolves #number-of-the-issue
 ```
+
+## The development team
+- Ricardo Morato - *Project Manager* - [RicardoMorato](https://github.com/RicardoMorato)
+- Maria Beatriz - *Fullstack Developer* - [mmariabeatriz](https://github.com/mmariabeatriz)
+- Victor Silva - *Fullstack Developer* - [victormarques-ia](https://github.com/victormarques-ia)
